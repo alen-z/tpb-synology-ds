@@ -1,0 +1,10 @@
+{
+"name": "syno_dlm_ds_se_tpb",
+"displayname": "The Pirate Bay",
+"description": "The most resilient BitTorrent site in the galaxy",
+"version": "1.0",
+"site": "https://thepiratebay.org",
+"module": "search.php",
+"type": "search",
+"class": "SynoDLMSearchNGPirateBay"
+}
