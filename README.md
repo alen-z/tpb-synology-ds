@@ -8,7 +8,7 @@ Get documentation for building Search modules at doc/ or https://global.download
 
 Get .dlm content:
 ```
-tar zxf mininova.dlm
+tar zxf mymodule.dlm
 ```
 Package source into .dlm:
 ```
