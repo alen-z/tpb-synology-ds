@@ -4,7 +4,7 @@ class SynoDLMSearchNGPirateBay
 {
     private $aurl = '';
 
-    private $qurl = 'https://thepiratebay.org/search/%s/0/7/0';
+    private $qurl = 'https://thepiratebay.org/search/%s';
     private $purl = 'https://thepiratebay.org';
     private $debug = 0;
 
